@@ -31,7 +31,7 @@ Reiniciar Dolphin y quedará instalado correctamente
 Todas las instrucciones bien explicadas están en:
 
 **Extraer aquí y Comprimir con Engrampa en español para Dolphin4 o Dolphin en Ubuntu 16.04, 18.04+ y derivados Debian**
-https://facilitarelsoftwarelibre.blogspot.com/2019/09/extraer-aqui-y-comprimir-con-engrampa.html
+[https://facilitarelsoftwarelibre.blogspot.com/2019/09/extraer-aqui-y-comprimir-con-engrampa.html](https://facilitarelsoftwarelibre.blogspot.com/2019/09/extraer-aqui-y-comprimir-con-engrampa.html) 
 
 
 
