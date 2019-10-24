@@ -1,7 +1,7 @@
 # engrampa-kde-service
 
 **Dolphin4**
-Menú Extraer aqui para Dolphin4 usando Engrampa. Poner en la terminal:
+Menú Extraer aqui para Dolphin4 usando Engrampa. Copiar todas las siguietnes líneas y poner en la terminal (las he preparado para que las pueda copiar todas y ahorrar tiempo):
 
 
 	mkdir -p ~/.kde/share/kde4/services/ServiceMenus
@@ -16,7 +16,7 @@ Quedará una ultima linea en la terminal, dar Enter, y Reiniciar Dolphin4 (cerra
 
 
 **Dolphin**
-Menú Extraer aqui para Dolphin usando Engrampa. Poner en la terminal:
+Menú Extraer aqui para Dolphin usando Engrampa. Copiar todas las siguietnes líneas y poner en la terminal (las he preparado para que las pueda copiar todas y ahorrar tiempo):
 
 
 	mkdir -p ~/.local/share/kservices5/ServiceMenus
