@@ -9,9 +9,10 @@ Menú Extraer aqui para Dolphin4 usando Engrampa. Poner en la terminal:
 	git clone https://github.com/wachin/engrampa-kde-service
 	cd engrampa-kde-service
 	cp *.desktop ~/.kde/share/kde4/services/ServiceMenus
+	echo "Dios les bendiga"
 
 
-Reiniciar Dolphin y quedará instalado correctamente
+Quedará una ultima linea en la terminal, dar Enter, y Reiniciar Dolphin4 (cerrarlo y volverlo a abrir) y quedará instalado correctamente
 
 
 **Dolphin**
@@ -23,9 +24,10 @@ Menú Extraer aqui para Dolphin usando Engrampa. Poner en la terminal:
 	git clone https://github.com/wachin/engrampa-kde-service
 	cd engrampa-kde-service
 	cp *.desktop ~/.local/share/kservices5/ServiceMenus
+	echo "Dios les bendiga"
 	
 	
-Reiniciar Dolphin y quedará instalado correctamente
+Quedará una ultima linea en la terminal, dar Enter, y Reiniciar Dolphin (cerrarlo y volverlo a abrir) y quedará instalado correctamente
 
 
 Todas las instrucciones bien explicadas están en:
