@@ -8,5 +8,6 @@ X-KDE-Priority=TopLevel
 
 [Desktop Action compressHere]
 Name=Comprimir...
+Name[nl]=Inpakken…
 Icon=utilities-file-archiver
 Exec=engrampa %U --add

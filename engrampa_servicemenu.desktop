@@ -8,12 +8,14 @@ X-KDE-StartupNotify=false
 
 [Desktop Action engrampaExtractTo]
 Name=Extraer Archivo a...
+Name[nl]=Uitpakken naar…
 Icon=utilities-file-archiver
 Exec=engrampa --extract
 
 
 [Desktop Action engrampaExtractHere]
 Name=Extraer Aquí
+Name[nl]=Hier uitpakken
 Icon=utilities-file-archiver
 Exec=engrampa --extract-here
 
